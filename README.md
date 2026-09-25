@@ -1,6 +1,6 @@
 # DevFolio — Personal Portfolio
 
-A responsive developer portfolio built with semantic HTML, modern CSS (Flexbox & CSS Grid), and responsive media queries.
+A responsive developer portfolio built with semantic HTML, modern CSS (Flexbox & CSS Grid), and responsive media queries. 
 
 ## Live Demo
 - *Live Site:* (https://hasini26301068-maker.github.io/DevFolio/)
