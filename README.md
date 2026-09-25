@@ -3,8 +3,8 @@
 A responsive developer portfolio built with semantic HTML, modern CSS (Flexbox & CSS Grid), and responsive media queries.
 
 ## Live Demo
-- *Live Site:* https://<your-username>.github.io/devfolio/
-- *Repository:* https://github.com/<your-username>/devfolio
+- *Live Site:* (https://hasini26301068-maker.github.io/DevFolio/)
+- *Repository:* https://github.com/<hasini26301068-maker>/devfolio
 
 ## Features
 - *Semantic HTML5:* Built using <header>, <main>, <section>, and <footer> tags.
